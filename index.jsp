@@ -1,3 +1,3 @@
 <body>
-<h2>A sample application has been deployed</h2>
+<h2><i>A sample application has been deployed</i></h2>
 </body>
